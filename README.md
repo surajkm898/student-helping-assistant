@@ -18,5 +18,8 @@ StudyBuddy is an all-in-one intelligent learning assistant that combines **Machi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/surajkm898/studybuddy-ai.git](https://github.com/surajkm898/studybuddy-ai.git)
-   cd studybuddy-ai
+   git clone [https://github.com/surajkm898/student-helping-assistant/blob/main/README.md]
+2. **Set up API Key:
+Replace YOUR_GEMINI_API_KEY in app.py with your actual Google AI Studio key.
+3. **Run the application:
+   python app.py
