@@ -18,5 +18,5 @@ StudyBuddy is an all-in-one intelligent learning assistant that combines **Machi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/studybuddy-ai.git](https://github.com/your-username/studybuddy-ai.git)
+   git clone [https://github.com/surajkm898/studybuddy-ai.git](https://github.com/surajkm898/studybuddy-ai.git)
    cd studybuddy-ai
